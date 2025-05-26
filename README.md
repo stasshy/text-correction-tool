@@ -30,6 +30,7 @@ Run the executable and follow the menu prompts:
 - Place your input files in the `data/` directory.
 - The vocabulary file should be named `Top1000EnglishWords.txt` and placed in `data/`.
 
+![image](https://github.com/user-attachments/assets/e8b4a180-af53-4130-93f2-064f893d8ce0)
 
 
 
